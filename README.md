@@ -1,2 +1,0 @@
-# edx-node
-# edXNode
